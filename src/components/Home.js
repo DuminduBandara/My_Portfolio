@@ -46,7 +46,7 @@ const Home = () => {
                         transition: { type: "spring", dumping: 300},
                     }}
                     whileTap={{ scale: 0.9 }}
-                    className="px-5 py-3 mt-5 w-[200px] font-header text-lg rounded-3xl bg-black text-white"
+                    className="px-5 py-3 mt-5 w-[220px] font-header text-lg rounded-3xl bg-black text-white"
                 >
                     <a href="https://drive.google.com/file/d/1g_noWxzoye3tVSXWGzpEF-pbRbqXuILD/view?usp=sharing" target="_blank">Download Resume</a>
                 </motion.button>
