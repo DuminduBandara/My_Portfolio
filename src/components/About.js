@@ -93,7 +93,7 @@ const About = () => {
           </div>
           <div className="col-span-1 p-[20px] flex flex-col justify-center rounded-3xl drop-shadow-lg bg-white">
             <h2 className="sm:text-2xl md:text-4xl lg:text-5xl text-center font-header">
-              I'm Dumindu Lakshan
+              I'm Dumindu Lakshan Bandara
             </h2>
             <h4 className="text-3xl font-option text-[#000000af] mt-2 text-center">
               Undergraduate.
