@@ -48,7 +48,7 @@ const Home = () => {
                     whileTap={{ scale: 0.9 }}
                     className="px-5 py-3 mt-5 w-[220px] font-header text-lg rounded-3xl bg-black text-white"
                 >
-                    <a href="https://drive.google.com/file/d/1MGgmMzpfK63BoFhgxaUMF1ndklsAcf3r/view?usp=sharing" target="_blank">Download Resume</a>
+                    <a href="https://drive.google.com/file/d/1wos83Qhy7ijRtDHlL2wB2LW5XFgBehV7/view?usp=sharing" target="_blank">Download Resume</a>
                 </motion.button>
             </div>
         </motion.div>
