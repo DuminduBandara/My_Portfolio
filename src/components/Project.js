@@ -56,7 +56,7 @@ const Project = () => {
             break: "",
             image: i1,
             siteLink: null,
-            codeLink: "https://github.com/lakshan969Github/Network-Towers-Management-System.git",
+            codeLink: "https://github.com/DuminduBandara/Network-Towers-Management-System.git",
             tech: [
                 {tName: "React JS", icon: <FaReact className="text-2xl"/>},
                 {tName: "Node JS", icon: <FaNodeJs className="text-2xl"/>},
@@ -70,7 +70,7 @@ const Project = () => {
             break: "",
             image: i2,
             siteLink: null,
-            codeLink: "https://github.com/lakshan969Github/Mern-EcommerceSite.git",
+            codeLink: "https://github.com/DuminduBandara/EcommerceSystem.git",
             tech: [
                 {tName: "React JS", icon: <FaReact className="text-2xl"/>},
                 {tName: "Node JS", icon: <FaNodeJs className="text-2xl"/>},
