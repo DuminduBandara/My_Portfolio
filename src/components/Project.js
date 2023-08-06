@@ -20,6 +20,7 @@ import i6 from "../assets/projects/portfolio.png"
 import i7 from "../assets/projects/restaurant.png"
 import i8 from "../assets/projects/hunter.png"
 import i9 from "../assets/projects/onlineBank.png"
+import i10 from "../assets/projects/maxresdefault.jpg"
 
 
 
@@ -121,7 +122,7 @@ const Project = () => {
             id: 6,
             name: "Video Browsing System",
             break: "",
-            image: i2,
+            image: i10,
             siteLink: null,
             codeLink: "https://github.com/DuminduBandara/Video_Browsing_System.git",
             tech: [
