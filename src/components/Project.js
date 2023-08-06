@@ -8,6 +8,7 @@ import { BiCodeAlt } from "react-icons/bi";
 import { FaNodeJs } from 'react-icons/fa';
 import { SiExpress } from "react-icons/si";
 import { SiMongodb } from "react-icons/si";
+import { FaJava } from 'react-icons/fa';
 
 
 import i1 from "../assets/projects/NTMS.png"
@@ -118,6 +119,20 @@ const Project = () => {
         },
         {
             id: 6,
+            name: "Video Browsing System",
+            break: "",
+            image: i2,
+            siteLink: null,
+            codeLink: "https://github.com/DuminduBandara/Video_Browsing_System.git",
+            tech: [
+                {tName: "Java", icon: <FaJava className="text-2xl"/>},
+                {tName: "Java Script", icon: <TbBrandJavascript className="text-2xl"/>},
+                { tName: "HTML", icon: <AiFillHtml5 className="text-2xl"/>},
+                { tName: "CSS", icon: <FaCss3 className="text-2xl"/>}
+            ]
+        },
+        {
+            id: 7,
             name: "Portfolio",
             break: "fully responsive*",
             image: i6,
@@ -129,7 +144,7 @@ const Project = () => {
             ]
         },
         {
-            id: 7,
+            id: 8,
             name: "Restaurant Website",
             break: "fully responsive*",
             image: i7,
@@ -143,7 +158,7 @@ const Project = () => {
             ]
         },
         {
-            id: 8,
+            id: 9,
             name: "Capture Flag Project",
             break: "",
             image: i8,
@@ -158,7 +173,7 @@ const Project = () => {
             ]
         },
         {
-            id: 9,
+            id: 10,
             name: "Online Banking System",
             break: "",
             image: i9,
