@@ -129,7 +129,7 @@ const Project = () => {
                 {tName: "Java", icon: <FaJava className="text-2xl"/>},
                 {tName: "Java Script", icon: <TbBrandJavascript className="text-2xl"/>},
                 { tName: "HTML", icon: <AiFillHtml5 className="text-2xl"/>},
-                { tName: "CSS", icon: <FaCss3 className="text-2xl"/>}
+                {tName: "Bootstrap", icon: <FaBootstrap className="text-2xl"/>},
             ]
         },
         {
